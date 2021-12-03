@@ -23,4 +23,4 @@ def part_two(file):
             else:
                 measurements['aim'] += move
         print(measurements['horizontal']*measurements['vertical'])
-part_two('2021/input.txt')
+part_two('Inputs/input.txt')
